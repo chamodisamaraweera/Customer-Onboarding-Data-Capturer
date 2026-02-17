@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="4pVJjFgb0U6LK-BzjLNNMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="b2e4627c-2d5e-468e-8bf9-986b667f53ab" CvElementArea="95, 336, 224, 37" CvType="InputBox" DesignTimeRectangle="97, 338, 221, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='input' class='bubble-element Input a1770017133504x1543' aaname='' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="2f56b55d-8bb7-489d-879c-0ccdc5dcdb3e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="b2e4627c-2d5e-468e-8bf9-986b667f53ab" CvTextArea="43, 342, 37, 14" CvTextArgument="First:" CvType="Text" DesignTimeRectangle="43, 338, 54, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='First:' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='First:' /&gt;" Guid="c55f1d90-9fa5-4a3c-8d43-95751342a808" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="c83b4e2cc35cc320c768cfd0e907aab6.png" xmlns="">0VIpsZQiPbkeip1K6Wzllgg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

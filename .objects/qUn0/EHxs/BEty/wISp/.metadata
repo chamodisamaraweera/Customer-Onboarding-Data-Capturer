@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Personal email",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "wISpw7vLnEeLDkgjYkGtfA",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/wISpw7vLnEeLDkgjYkGtfA",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-03T13:56:27.0680385Z",
+  "Updated": "2026-02-12T10:20:40.5558189Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

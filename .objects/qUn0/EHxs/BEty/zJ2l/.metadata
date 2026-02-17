@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Work phone element",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "zJ2lmcoSUkqSLX4hwn8mnw",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/zJ2lmcoSUkqSLX4hwn8mnw",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-03T13:53:45.631067Z",
+  "Updated": "2026-02-12T10:19:56.3146344Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

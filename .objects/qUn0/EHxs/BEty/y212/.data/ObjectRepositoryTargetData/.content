@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="BUptTIXpvki8K3io-MqJQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5765ada9-33fd-44d6-b3eb-0c6b89b4581c" CvElementArea="235, 119, 75, 23" CvTextArea="263, 125, 17, 11" CvTextArgument="Yes" CvType="Button" DesignTimeRectangle="235, 119, 75, 23" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='6' title='&amp;amp;Yes' /&gt;" Guid="23d348d7-b725-4e2a-9299-66fb51a68ddc" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='#32770' title='Refresh Table' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="8dca786492a84674a0fe07b788471534.png" xmlns="">0L84MSi4pJ0y_x53yw5oNsw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

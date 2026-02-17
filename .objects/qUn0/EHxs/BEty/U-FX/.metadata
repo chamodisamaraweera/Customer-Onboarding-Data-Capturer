@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Last name element",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "U-FXEF5HBk2MMq2ZrVr1Lw",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/U-FXEF5HBk2MMq2ZrVr1Lw",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-03T10:23:43.330659Z",
+  "Updated": "2026-02-12T10:21:32.3884943Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

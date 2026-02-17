@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Dropdown container gender",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "b6f8GZNvS0ejKDxSQjSuaw",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/b6f8GZNvS0ejKDxSQjSuaw",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-12T04:32:08.5203622Z",
+  "Updated": "2026-02-12T11:12:43.3590173Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="rJm5ketbuk6fKFrwO0KEgQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="fbb4c034-68f5-4277-a60b-6adf656f09ae" CvElementArea="804, 381, 191, 37" CvType="InputBox" DesignTimeRectangle="806, 383, 187, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tabindex='11' tag='INPUT' type='input' class='bubble-element Input a1770017133504x1543' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="c3ac37fc-d6b4-4d03-9fbb-2b5ab4b60475" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fbb4c034-68f5-4277-a60b-6adf656f09ae" CvTextArea="720, 389, 41, 14" CvTextArgument="Work:" CvType="Text" DesignTimeRectangle="721, 385, 85, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Work:' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Work:' /&gt;" Guid="504b4491-5be8-4cf3-bbf4-99d976370546" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f795a447e52cbc437b7e48ee9c8630be.png" xmlns="">0U-LyzAPr1kml2jazko0Org</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

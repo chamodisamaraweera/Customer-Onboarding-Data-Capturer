@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="djM5uhtj9U2TfglnuFf1yA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="5d19379c-7dd2-4ebd-9a97-c705a10ab6fe" CvTextArea="69, 65, 141, 11" CvTextArgument="Customer added to the list." CvType="Text" DesignTimeRectangle="70, 64, 141, 15" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='65535' title='Customer added to the list.' /&gt;" Guid="5749b614-f711-48b2-ba16-1de9192e4a5c" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='#32770' title='Success' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d52141a35075e2e807c0fe8d6c7ae1e0.png" xmlns="">0lIH9ZBnp50ycPHR7AlDzYQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Male",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "yM-0BW154kuSc7hIsydUlg",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/yM-0BW154kuSc7hIsydUlg",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/O2Ol-tyDJEqQ3fH9KGoSlQ",
+  "Created": "2026-02-02T19:04:16.4733971Z",
+  "Updated": "2026-02-02T19:04:16.4733971Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

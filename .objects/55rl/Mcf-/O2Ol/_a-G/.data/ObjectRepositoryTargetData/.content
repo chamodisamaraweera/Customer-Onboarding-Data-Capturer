@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="khpKO15Hs0e7g-jTLLyrdw" Reference="n7MaS7_XlUGN5t5GMtTuHg/_a-GoYqYRU6RsVwsi7kNrg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="56968bfa-768a-4197-9f86-e045d703f14d" CvElementArea="804, 340, 191, 37" CvType="InputBox" DesignTimeRectangle="806, 341, 187, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tabindex='10' tag='INPUT' type='input' class='bubble-element Input a1770017133504x1543' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="5b650d18-58a8-4fac-b06b-9702379e2216" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="56968bfa-768a-4197-9f86-e045d703f14d" CvTextArea="720, 345, 46, 14" CvTextArgument="Home:" CvType="Text" DesignTimeRectangle="721, 341, 85, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Home:' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Home:' /&gt;" Guid="c1337d0a-7b7d-44d0-837e-ee3dee293e10" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="f108d55343e9a108ec453a33122f8fa9.png" xmlns="">0M0gVm5X6VkKe5yIkq0-5YA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

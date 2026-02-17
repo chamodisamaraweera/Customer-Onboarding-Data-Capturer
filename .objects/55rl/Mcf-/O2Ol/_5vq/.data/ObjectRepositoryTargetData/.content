@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="xpCDNusH8kSCnMXrXl5Vag" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="4169da40-4c55-49cc-93dc-07b705d13d36" CvElementArea="472, 337, 192, 36" CvType="InputBox" DesignTimeRectangle="474, 338, 188, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tabindex='7' tag='INPUT' type='input' class='bubble-element Input a1770017133504x1543' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="e6b72898-019a-49bb-9c0f-df876154ef3e" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4169da40-4c55-49cc-93dc-07b705d13d36" CvTextArea="385, 342, 62, 14" CvTextArgument="Address:" CvType="Text" DesignTimeRectangle="386, 338, 88, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Address: ' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Address:' /&gt;" Guid="dc8d7e3e-3658-49ac-ad10-532bb3eae4dc" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="cb9fc9d2d7d8447534a24f8ad2c52fd9.png" xmlns="">0FP0jtGsGaEy_xlExcA0LLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

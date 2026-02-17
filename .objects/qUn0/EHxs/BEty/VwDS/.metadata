@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Colorado",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "VwDSf5dQw0qy2Oi_2BdkNQ",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/VwDSf5dQw0qy2Oi_2BdkNQ",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-11T11:36:10.0279769Z",
+  "Updated": "2026-02-11T11:36:10.0279769Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

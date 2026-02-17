@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HDXY784q-0OASNNxLGGNZw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="17ea3fdf-ff5c-4247-95ec-a0e9ac04e86a" CvElementArea="603, 277, 90, 31" CvTextArea="618, 286, 59, 12" CvTextArgument="Clear Form" CvType="Button" DesignTimeRectangle="604, 278, 88, 29" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd cls='TkChild' idx='14' /&gt;" Guid="844439bc-f6be-48fb-8e97-db3bc607e10a" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='TkTopLevel' title='The Automation Challenge | CRM App' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="7683f634bc8e50f4480ab3f901fed065.png" xmlns="">0LU2_8g0vy0WIHxRiNyyzNw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

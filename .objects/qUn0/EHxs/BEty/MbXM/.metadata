@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Arkansas",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "MbXMr0mGJkqeOOzKr5kvUA",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/MbXMr0mGJkqeOOzKr5kvUA",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-11T10:37:41.3095431Z",
+  "Updated": "2026-02-11T10:37:41.3095431Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

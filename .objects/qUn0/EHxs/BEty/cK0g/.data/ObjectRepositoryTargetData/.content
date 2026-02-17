@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Q6llguYcP0uxMr48LV_h5A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="4ca914ed-24c9-4f78-b0d8-f4ddf513c78f" CvElementArea="151, 119, 75, 23" CvTextArea="180, 125, 17, 11" CvTextArgument="OK" CvType="Button" DesignTimeRectangle="151, 119, 75, 23" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;wnd ctrlid='2' title='OK' /&gt;" Guid="e2b40d8d-a04a-42c0-b065-ee70eeecb7ca" ScopeSelectorArgument="&lt;wnd app='crm_desktop_app.exe' cls='#32770' title='Success' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="4ca914ed-24c9-4f78-b0d8-f4ddf513c78f" CvTextArea="69, 65, 141, 11" CvTextArgument="Customer added to the list." CvType="Text" DesignTimeRectangle="70, 64, 141, 15" ElementType="Text" FuzzySelectorArgument="&lt;wnd ctrlid='65535' title='Customer added to the list.' matching:ctrlid='fuzzy' fuzzylevel:ctrlid='0.0' matching:title='fuzzy' fuzzylevel:title='0.0' check:text='Customer added to the list.' /&gt;" Guid="e33f58c2-6244-4263-8611-d2f385b81e12" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="21c03bb1974411904750a7ec6b60a1b3.png" xmlns="">0qU7RILyfjEmT5QSI2j6lpg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

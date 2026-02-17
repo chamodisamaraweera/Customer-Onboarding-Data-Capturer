@@ -1,0 +1,17 @@
+﻿{
+  "Name": "Personal email input field",
+  "Type": "Element",
+  "TaxonomyType": "Element",
+  "Id": "lRrHH2nhNkmm3T6pulhS8A",
+  "Reference": "n7MaS7_XlUGN5t5GMtTuHg/lRrHH2nhNkmm3T6pulhS8A",
+  "ParentRef": "n7MaS7_XlUGN5t5GMtTuHg/BEtyhU1hT0yIyPMAZ3BkrA",
+  "Created": "2026-02-03T10:58:02.4427952Z",
+  "Updated": "2026-02-12T10:24:54.3256188Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

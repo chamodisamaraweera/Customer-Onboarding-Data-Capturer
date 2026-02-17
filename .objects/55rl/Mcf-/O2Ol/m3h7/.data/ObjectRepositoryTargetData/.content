@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lWNhGbUL3U699zmDc_geCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="theautomationchallenge.com/crm" CVScreenId="cf3b3dba-ad1c-473b-a39e-d5c35d41c948" CvElementArea="1139, 379, 191, 37" CvType="InputBox" DesignTimeRectangle="1141, 380, 188, 34" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tabindex='13' tag='INPUT' type='email' class='bubble-element Input a1770017133504x1543' aaname='' matching:tabindex='fuzzy' fuzzylevel:tabindex='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="0db9660c-e690-47a2-b145-9556048a751a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='CRM' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="cf3b3dba-ad1c-473b-a39e-d5c35d41c948" CvTextArea="1040, 292, 41, 14" CvTextArgument="Email" CvType="Text" DesignTimeRectangle="1041, 288, 71, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='Email' class='content' tag='DIV' type='' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Email' /&gt;" Guid="931ffe9e-548d-4ddb-bb58-f6dd94967bde" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="65798f142cfda43d8e280b15ee7d8777.png" xmlns="">0_N-B76cCoUWRUIffY6ao4A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
